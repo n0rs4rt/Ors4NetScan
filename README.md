@@ -57,7 +57,7 @@ Si no hay conexión, estas funciones no podrán devolver resultados válidos.
 
 ---
 
-![Vista general de ORS4 Net Scan](URL_MENU_AQUI)
+![Vista general de ORS4 Net Scan](https://github.com/n0rs4rt/ors4nmap/blob/f78b85a2422b94bd6026d630a8653f869dcdfb95/assets/menu-principal.png)
 
 ## 🧩 Funciones principales
 
