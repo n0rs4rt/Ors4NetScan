@@ -142,8 +142,8 @@ Opción pensada para usuarios avanzados:
 ---
 
 ## 🖼️ Capturas de pantalla
-
+## Deteccion de Puertos
 ![Puertos](https://github.com/n0rs4rt/Ors4NetScan/blob/1ced2238929ca7347a381a6119023b5cbbc683ad/assets/puertos.png)
 
-
+## Deteccion de vulnerabilidades
 ![Vulnerabilidades](https://github.com/n0rs4rt/Ors4NetScan/blob/1ced2238929ca7347a381a6119023b5cbbc683ad/assets/vulnerabilidades.png)
