@@ -144,4 +144,6 @@ Opción pensada para usuarios avanzados:
 ## 🖼️ Capturas de pantalla
 
 ![Puertos](https://github.com/n0rs4rt/Ors4NetScan/blob/1ced2238929ca7347a381a6119023b5cbbc683ad/assets/puertos.png)
+
+
 ![Vulnerabilidades](https://github.com/n0rs4rt/Ors4NetScan/blob/1ced2238929ca7347a381a6119023b5cbbc683ad/assets/vulnerabilidades.png)
