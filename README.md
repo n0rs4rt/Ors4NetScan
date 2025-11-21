@@ -8,7 +8,7 @@ Los resultados pueden exportarse en **JSON, CSV o PDF**, facilitando la document
 
 La herramienta es totalmente **portable**, no requiere instalación y puede ejecutarse desde cualquier ubicación.  
 
-[ Descargar última versión](https://github.com/n0rs4rt/Ors4NetScan/releases/download/v1.2/Or4NetScan.zip)
+[ Descargar última versión](https://github.com/n0rs4rt/ORS4NetScan/releases/download/v1.2/Ors4NetScan.zip)
 
 ---
 
